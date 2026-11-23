@@ -622,7 +622,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "jlcpcb_r1/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

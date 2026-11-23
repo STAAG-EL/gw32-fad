@@ -5,7 +5,7 @@
 	(uuid "bc7eac1b-0634-4de0-b7af-0ab78aef73ed")
 	(paper "A4")
 	(title_block
-		(title "Full Atmosphere \\n Diagnostics")
+		(title "\\n Full Atmosphere \\n Diagnostics")
 		(date "2026-10-18")
 		(rev "V1 / R1")
 		(company "Elektronik u. techn. Informatik")
